@@ -11,5 +11,3 @@ For farmers, the platform provides increased visibility and access to a broader 
 # Event Storming
 
 ![Alt Text](Event_Storming.jpg "Optional Hover Title")
-
-# User Story
