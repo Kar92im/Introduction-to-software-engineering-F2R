@@ -10,6 +10,6 @@ For farmers, the platform provides increased visibility and access to a broader 
 
 # Event Storming
 
-![Alt Text](F2R%20Logo.png "Optional Hover Title")
+![Alt Text](Event_Storming.jpg "Optional Hover Title")
 
 # User Story
